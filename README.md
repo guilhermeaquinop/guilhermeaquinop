@@ -1,7 +1,7 @@
 Olá, eu sou Guilherme!
 
-- 🔭 Estudante de Ciência e Tecnologia.
-- 🌱 Estudando Python e Django.
+- 🔭 Student of Science and Technology.
+- 🌱 Studing Web Develop.
  <div>
   <a href="https://github.com/guilhermeaquinop">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaquinop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
