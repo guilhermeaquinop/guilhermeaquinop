@@ -1,4 +1,4 @@
-Olá, eu sou Guilherme!
+Hi, i am Guilherme!
 
 - 🔭 Student of Science and Technology.
 - 🌱 Studing Web Develop.
