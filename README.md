@@ -1,7 +1,8 @@
-Hi, i am Guilherme!
+Olá, me chamo Guilheme!
 
-- 🔭 Student of Science and Technology.
-- 🌱 Studing Web Develop.
+- 🔭 Estudante de Ciência e Tecnologia.
+- 🌱 Estudando Desenvolvimento Web.
+
  <div>
   <a href="https://github.com/guilhermeaquinop">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaquinop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
