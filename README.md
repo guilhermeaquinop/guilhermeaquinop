@@ -1,4 +1,4 @@
-Olá, me chamo Guilheme!
+Olá, me chamo Guilheme! 👋
 
 - 🔭 Estudante de Ciência e Tecnologia.
 - 🌱 Estudando Desenvolvimento Web.
