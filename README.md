@@ -1,7 +1,7 @@
 Olá, me chamo Guilheme! 👋
 
-- 🔭 Estudante de Ciência e Tecnologia.
-- 🌱 Estudando Desenvolvimento Web.
+- 🔭 Estudante de Ciência e Tecnologia
+- 🌱 Web Developer
 
  <div>
   <a href="https://github.com/guilhermeaquinop">
