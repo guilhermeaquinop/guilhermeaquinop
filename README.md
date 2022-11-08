@@ -1,12 +1,13 @@
 Olá, me chamo Guilheme! Sou um amante da tecnologia assim como você e aqui estão expostos alguns dos meus projetos. 👋😁
 <br>
 Fique a vontade para contribuir com eles e se tiver alguma dúvida, meu <strong>Linkedin</strong> está logo abaixo! 🔽
-
+<!--
  <div>
   <a href="https://github.com/guilhermeaquinop">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaquinop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaquinop&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
